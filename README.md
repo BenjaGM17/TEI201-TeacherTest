@@ -59,7 +59,7 @@
 
 ### Diseño 3D ✓
 - [ ] Archivos Fusion 360 (.f3d) con TODOS los componentes
-- [ ] Renders de alta calidad (4+ ángulos)
+- [ ] Renders de alta calidad (1+ ángulos)
 - [ ] Planos técnicos
 
 ### Testing ✓
@@ -77,4 +77,4 @@
 ---
 
 ##  Licencia
-Este proyecto es desarrollado como parte del curso TEI201 - Facultad de ingenieria y ciencias - universidadadolfo ibañez
+Este proyecto es desarrollado como parte del curso TEI201 - Facultad de Ingenieria y Ciencias - Universidad Adolfo Ibañez
